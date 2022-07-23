@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Kingfisher (7.2.0)
+  - NVActivityIndicatorView (4.7.0):
+    - NVActivityIndicatorView/Presenter (= 4.7.0)
+  - NVActivityIndicatorView/Presenter (4.7.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - Kingfisher
+  - NVActivityIndicatorView (~> 4.7.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Kingfisher: 3ac0b75b155cabc0e544877d1a4deea29feece92
+  NVActivityIndicatorView: b19ddab2576f805cbe0fb2306cba3476e09a1dea
+
+PODFILE CHECKSUM: 121feb3800cabdba2e324efb9d863fcef3fe2838
+
+COCOAPODS: 1.11.3
